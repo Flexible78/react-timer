@@ -11,6 +11,7 @@ A stylish, responsive, and modular world clock application built with **React** 
     * TypeScript interfaces for strict data typing.
     * Automatic memory management (cleanup of intervals on unmount).
 
+
 ## 🚀 Tech Stack
 * **Framework:** React 18+
 * **Language:** TypeScript
