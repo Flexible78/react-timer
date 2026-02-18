@@ -2,8 +2,6 @@
 
 A stylish, responsive, and modular world clock application built with **React** and **TypeScript**. This project demonstrates clean component architecture and real-time data synchronization.
 
-
-
 ## ✨ Features
 * **Multi-timezone Support:** Track time in Tel Aviv, Tokyo, New York, and Paris simultaneously.
 * **Glassmorphism UI:** Modern frosted-glass effect with smooth hover animations.
